@@ -10,7 +10,8 @@
 
 ### 🔭 I’m currently working on:
 
-- Creating the project in order to sharpen my skill set for frontend development
+- Creating projects in order to sharpen my skill set for frontend development
+- Currently I am working on creating the blog website
 
 ### 🌱 I’m currently learning:
 
